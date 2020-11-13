@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/pcm-writei.dir/examples/pcm-writei.c.o  -o pcm-writei -rdynamic libtinyalsa.so.2.0.0 -ldl -Wl,-rpath,/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build 

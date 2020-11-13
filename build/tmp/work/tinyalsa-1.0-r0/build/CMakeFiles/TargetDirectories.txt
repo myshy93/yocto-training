@@ -1,0 +1,14 @@
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/rebuild_cache.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/edit_cache.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/pcm-readi.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/install.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/tinyalsa.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/tinywavinfo.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/pcm-writei.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/tinycap.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/tinyplay.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/tinypcminfo.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/list_install_components.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/install/strip.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/tinymix.dir
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build/CMakeFiles/install/local.dir

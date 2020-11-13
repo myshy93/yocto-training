@@ -1,0 +1,17 @@
+DEBUG: Executing shell function do_fetch
+--2020-11-10 18:32:27--  http://ftp.gnu.org/gnu/grep/grep-1.0.tar.gz
+Resolving ftp.gnu.org (ftp.gnu.org)... 209.51.188.20, 2001:470:142:3::b
+Connecting to ftp.gnu.org (ftp.gnu.org)|209.51.188.20|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-11-10 18:32:27 ERROR 404: Not Found.
+
+WARNING: exit code 8 from a shell command.
+ERROR: Execution of '/home/eurekaserver/yocto/base/build/tmp/work/grep-3.6-1.0-r0/temp/run.do_fetch.166494' failed with exit code 8:
+--2020-11-10 18:32:27--  http://ftp.gnu.org/gnu/grep/grep-1.0.tar.gz
+Resolving ftp.gnu.org (ftp.gnu.org)... 209.51.188.20, 2001:470:142:3::b
+Connecting to ftp.gnu.org (ftp.gnu.org)|209.51.188.20|:80... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2020-11-10 18:32:27 ERROR 404: Not Found.
+
+WARNING: exit code 8 from a shell command.
+

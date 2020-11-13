@@ -1,0 +1,2 @@
+ERROR: /home/eurekaserver/yocto/base/build/../meta-training-examples/recipes-example/tinyalsa/tinyalsa.bb: This recipe does not have the LICENSE field set (tinyalsa)
+ERROR: Failed to parse recipe: /home/eurekaserver/yocto/base/build/../meta-training-examples/recipes-example/tinyalsa/tinyalsa.bb

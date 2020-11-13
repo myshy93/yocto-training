@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/tinymix.dir/utils/tinymix.c.o  -o tinymix -rdynamic libtinyalsa.so.2.0.0 -ldl -Wl,-rpath,/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build: 

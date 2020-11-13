@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/eurekaserver/yocto/base/build/tmp
+SSTATE_DIR /home/eurekaserver/yocto/base/build/sstate-cache
+NATIVELSBSTRING ubuntu-16.04

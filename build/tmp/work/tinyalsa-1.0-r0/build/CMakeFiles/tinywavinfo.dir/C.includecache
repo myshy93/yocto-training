@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/git/utils/tinywavinfo.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+string.h
+-
+signal.h
+-
+math.h
+-
+

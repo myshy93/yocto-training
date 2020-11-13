@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libtinyalsa.so.2 -o libtinyalsa.so.2.0.0 CMakeFiles/tinyalsa.dir/src/pcm.c.o CMakeFiles/tinyalsa.dir/src/pcm_hw.c.o CMakeFiles/tinyalsa.dir/src/pcm_plugin.c.o CMakeFiles/tinyalsa.dir/src/snd_card_plugin.c.o CMakeFiles/tinyalsa.dir/src/mixer.c.o CMakeFiles/tinyalsa.dir/src/mixer_hw.c.o CMakeFiles/tinyalsa.dir/src/mixer_plugin.c.o -ldl 
