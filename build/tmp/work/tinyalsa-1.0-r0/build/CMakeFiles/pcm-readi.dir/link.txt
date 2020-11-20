@@ -1,1 +1,0 @@
-/usr/bin/cc     CMakeFiles/pcm-readi.dir/examples/pcm-readi.c.o  -o pcm-readi -rdynamic libtinyalsa.so.2.0.0 -ldl -Wl,-rpath,/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/build 

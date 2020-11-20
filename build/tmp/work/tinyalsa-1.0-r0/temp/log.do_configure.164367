@@ -1,9 +1,0 @@
-DEBUG: Executing shell function do_configure
-CMake Error: The source directory "/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/git" does not exist.
-Specify --help for usage, or press the help button on the CMake GUI.
-WARNING: exit code 1 from a shell command.
-ERROR: Execution of '/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_configure.164367' failed with exit code 1:
-CMake Error: The source directory "/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/git" does not exist.
-Specify --help for usage, or press the help button on the CMake GUI.
-WARNING: exit code 1 from a shell command.
-

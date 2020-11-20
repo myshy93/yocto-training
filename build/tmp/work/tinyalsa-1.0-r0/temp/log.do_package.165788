@@ -1,9 +1,0 @@
-DEBUG: Executing shell function do_package
-tar (child): /home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/deploy/tinyalsa.tar.gz: Cannot open: No such file or directory
-tar (child): Error is not recoverable: exiting now
-WARNING: exit code 141 from a shell command.
-ERROR: Execution of '/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_package.165788' failed with exit code 141:
-tar (child): /home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/deploy/tinyalsa.tar.gz: Cannot open: No such file or directory
-tar (child): Error is not recoverable: exiting now
-WARNING: exit code 141 from a shell command.
-

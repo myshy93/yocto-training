@@ -1,3 +1,0 @@
-DEBUG: Executing shell function do_fetch
-Cloning into '/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/git'...
-DEBUG: Shell function do_fetch finished

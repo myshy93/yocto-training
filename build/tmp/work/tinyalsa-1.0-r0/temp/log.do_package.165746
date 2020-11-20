@@ -1,9 +1,0 @@
-DEBUG: Executing shell function do_package
-tar: Cowardly refusing to create an empty archive
-Try 'tar --help' or 'tar --usage' for more information.
-WARNING: exit code 2 from a shell command.
-ERROR: Execution of '/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_package.165746' failed with exit code 2:
-tar: Cowardly refusing to create an empty archive
-Try 'tar --help' or 'tar --usage' for more information.
-WARNING: exit code 2 from a shell command.
-

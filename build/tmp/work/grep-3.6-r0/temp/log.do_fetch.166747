@@ -1,7 +1,0 @@
-DEBUG: Executing shell function do_fetch
-/home/eurekaserver/yocto/base/build/tmp/work/grep-3.6-r0/wget/grep_3.6.tar.gz: No such file or directory
-WARNING: exit code 1 from a shell command.
-ERROR: Execution of '/home/eurekaserver/yocto/base/build/tmp/work/grep-3.6-r0/temp/run.do_fetch.166747' failed with exit code 1:
-/home/eurekaserver/yocto/base/build/tmp/work/grep-3.6-r0/wget/grep_3.6.tar.gz: No such file or directory
-WARNING: exit code 1 from a shell command.
-

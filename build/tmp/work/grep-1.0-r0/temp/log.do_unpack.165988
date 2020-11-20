@@ -1,9 +1,0 @@
-DEBUG: Executing shell function do_unpack
-tar: /home/eurekaserver/yocto/base/build/tmp/work/grep-1.0-r0/wget/*: Cannot open: No such file or directory
-tar: Error is not recoverable: exiting now
-WARNING: exit code 2 from a shell command.
-ERROR: Execution of '/home/eurekaserver/yocto/base/build/tmp/work/grep-1.0-r0/temp/run.do_unpack.165988' failed with exit code 2:
-tar: /home/eurekaserver/yocto/base/build/tmp/work/grep-1.0-r0/wget/*: Cannot open: No such file or directory
-tar: Error is not recoverable: exiting now
-WARNING: exit code 2 from a shell command.
-

@@ -1,7 +1,0 @@
-DEBUG: Executing shell function do_configure
-/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_configure.165218: 26: cd: can't cd to /build
-WARNING: exit code 2 from a shell command.
-ERROR: Execution of '/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_configure.165218' failed with exit code 2:
-/home/eurekaserver/yocto/base/build/tmp/work/tinyalsa-1.0-r0/temp/run.do_configure.165218: 26: cd: can't cd to /build
-WARNING: exit code 2 from a shell command.
-
